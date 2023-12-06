@@ -26,5 +26,3 @@ Bro1_age= input("wthat'Bro1's age? :")
 print("ready for next!!!")
 Bro2_age= input("wthat'Bro2's age? :")
 print("Goodjob! you did it!!!!!!!!!!!!!!!!")
-
-    

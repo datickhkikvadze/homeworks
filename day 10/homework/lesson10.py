@@ -31,11 +31,11 @@
 
 
 
-family_after_10years = ["sofo", "temo", "gio", "dati"]
-age_after_10years = [10+38,10+6,10+14,10+12]
-full_sentence = "My mom's name is: {} and she is: {} years old, My 1-st brother's name is: {} and he is: {} years old,My 2-nd brother's name is: {} and he is: {} years old,  My name is: {} and I am: {} years old".format(
-    family_after_10years[0], age_after_10years[0], family_after_10years[1], age_after_10years[1], family_after_10years[2], age_after_10years[2], family_after_10years[3], age_after_10years[3]
-)
+# family_after_10years = ["sofo", "temo", "gio", "dati"]
+# age_after_10years = [10+38,10+6,10+14,10+12]
+# full_sentence = "My mom's name is: {} and she is: {} years old, My 1-st brother's name is: {} and he is: {} years old,My 2-nd brother's name is: {} and he is: {} years old,  My name is: {} and I am: {} years old".format(
+#     family_after_10years[0], age_after_10years[0], family_after_10years[1], age_after_10years[1], family_after_10years[2], age_after_10years[2], family_after_10years[3], age_after_10years[3]
+# )
 
-print(full_sentence)
-print("my family after 10 years")
+# print(full_sentence)
+# print("my family after 10 years")
